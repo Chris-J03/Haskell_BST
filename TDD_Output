@@ -1,0 +1,30 @@
+### Failure in: 0                         
+BST_Test.hs:12
+Identifying number that is in BST
+expected: "Three"
+ but got: "Five"
+Cases: 1  Tried: 1  Errors: 0  Failures: 1
+------------------------------------------
+### Failure in: 1                         
+BST_Test.hs:13
+Identifying number that is not in BST
+expected: "Three"
+ but got: "Five"
+Cases: 2  Tried: 2  Errors: 0  Failures: 1
+------------------------------------------
+Cases: 2  Tried: 2  Errors: 0  Failures: 0
+------------------------------------------
+### Error in:   2                         
+BinarySearchTree.hs:(29,1)-(32,42): Non-exhaustive patterns in function search
+
+Cases: 3  Tried: 3  Errors: 1  Failures: 0
+------------------------------------------
+Cases: 3  Tried: 3  Errors: 0  Failures: 0
+------------------------------------------
+### Error in:   2                         
+BinarySearchTree.hs:(29,1)-(32,42): Non-exhaustive patterns in function search
+
+Cases: 3  Tried: 3  Errors: 1  Failures: 0
+------------------------------------------
+Cases: 3  Tried: 3  Errors: 0  Failures: 0
+------------------------------------------
